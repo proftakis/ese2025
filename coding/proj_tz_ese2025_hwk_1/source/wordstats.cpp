@@ -1,12 +1,12 @@
 /*
 ********************************************************
-* wordstats.cpp: program receives text from user  	   *
-* 	       		 and then displays word count for      *
-* 	       		 each word in the text;                *
-* 	       		 makes use of vector container type    *
-*                                               	   *
-* author: Takis Zourntos                        	   *
-* date: May 2019                              		   *
+* wordstats.cpp: program receives text from user       *
+* 	       	 and then displays word count for      *
+* 	       	 each word in the text;                *
+* 	       	 makes use of vector container type    *
+*                                              	       *
+* author: Takis Zourntos                       	       *
+* date: May 2019                              	       *
 ********************************************************
  */
 
