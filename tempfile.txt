@@ -1,0 +1,5 @@
+total 12
+drwxrwxr-x 3 takis takis 4096 May 29 12:39 coding
+-rw-rw-r-- 1 takis takis 1071 May 29 12:25 LICENSE
+-rw-rw-r-- 1 takis takis  167 May 29 12:25 README.md
+-rw-rw-r-- 1 takis takis    0 Jun 12 11:56 tempfile.txt
